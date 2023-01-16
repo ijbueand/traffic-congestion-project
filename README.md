@@ -1,2 +1,2 @@
-# traffic-congestion-project
-The aim of this ML project is to predict traffic congestion levels in 40 European cities.
+# Traffic Congestion Project
+Traffic congestion is a situation where the demand for road space exceeds the available supply which can have a number of negative consequences, including increased fuel consumption and air pollution, decreased productivity, and increased stress and frustration for drivers. The aim of this project is to create a machine learning model able to predict the amount of congestion given certain variables.
